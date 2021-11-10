@@ -1,5 +1,4 @@
-/*Using the statements you wrote in Exercise 2.4, write a
-complete program that calculates and displays the product of
+/*write a complete program that calculates and displays the product of
 three integers. Add comments to the code where appropriate.[Note: You’ll need to write the necessary
 using
 declarations or
